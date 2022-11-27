@@ -35,7 +35,7 @@ print()
 
 # Write a for loop that does the same thing (with range())
 print("Problem 4 - for loop range():")
-for i in range(100,141, 2):
+for i in range(100,142, 2):
     print(i)
 print()
 
